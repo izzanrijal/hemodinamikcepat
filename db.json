@@ -1,0 +1,36 @@
+{
+  "patients": {
+    "123456": {
+      "name": "Maula2",
+      "rm": "123456",
+      "weight": 52,
+      "height": 165,
+      "lvotDiameter": 2
+    },
+    "Maulana": {
+      "name": "123456",
+      "rm": "Maulana",
+      "weight": 50,
+      "height": 165,
+      "lvotDiameter": 2
+    }
+  },
+  "examinations": [
+    {
+      "timestamp": "20241117-1814",
+      "formattedOutput": "Urine output:\n5000 / 24 jam (4.01 cc/kgBB/hour)\nFluid balance: 365 cc\n\n*Echo Hemodinamik Maula2 RM 123456 20241117-1814*\nTD 85 / 55 mmHg\nMAP: 65 mmHg\nHR: 120 bpm\nLVOT diameter: 2 cm\nLVOT VTI: 8.40 cm\nLV SV: 26.38 ml\nLV CO: 3.17 L/min\neRAP: 20 mmHg (2.50 / 1.90)\nSVR: 1137.40 dynes/sec.cm-5\n\nBSA: 1.54\nCardiac Index: 2.05\nCardiac Power Output: 0.46\nCardiac Power Index: 0.30\n\nLung Ultrasound\nA-Lines (+), B-lines (+) bilateral, Efusi pleura (+) with estimation right: 600 cc, left: 400 cc"
+    },
+    {
+      "timestamp": "20241117-1758",
+      "formattedOutput": "Urine output:\n4000 / 24 jam (3.21 cc/kgBB/hour)\nFluid balance: 2000 cc\n\n*Echo Hemodinamik Maula2 RM 123456 20241117-1758*\nTD 80 / 50 mmHg\nMAP: 60 mmHg\nHR: 56 bpm\nLVOT diameter: 2 cm\nLVOT VTI: 8.50 cm\nLV SV: 26.69 ml\nLV CO: 1.49 L/min\neRAP: 3 mmHg (2 / 0.90)\nSVR: 3050.90 dynes/sec.cm-5\n\nBSA: 1.54\nCardiac Index: 0.97\nCardiac Power Output: 0.20\nCardiac Power Index: 0.13\n\nLung Ultrasound\nA-Lines (+), B-lines (-), Efusi pleura (-)"
+    },
+    {
+      "timestamp": "20241117-1756",
+      "formattedOutput": "Urine output:\n1000 / 24 jam (0.80 cc/kgBB/hour)\nFluid balance: -75 cc\n\n*Echo Hemodinamik Maula2 RM 123456 20241117-1756*\nTD 120 / 80 mmHg\nMAP: 93.33 mmHg\nHR: 75 bpm\nLVOT diameter: 2 cm\nLVOT VTI: 8.50 cm\nLV SV: 26.69 ml\nLV CO: 2.00 L/min\neRAP: 15 mmHg (2.20 / 0.60)\nSVR: 3130.59 dynes/sec.cm-5\n\nBSA: 1.54\nCardiac Index: 1.30\nCardiac Power Output: 0.41\nCardiac Power Index: 0.27\n\nLung Ultrasound\nA-Lines (+), B-lines (-), Efusi pleura (-)"
+    },
+    {
+      "timestamp": "20241117-1731",
+      "formattedOutput": "Urine output:\n1200 / 24 jam (1 cc/kgBB/hour)\nFluid balance: -250 cc\n\n*Echo Hemodinamik 123456 RM Maulana 20241117-1731*\nTD 85 / 45 mmHg\nMAP: 58.33 mmHg\nHR: 86 bpm\nLVOT diameter: 2 cm\nLVOT VTI: 8.50 cm\nLV SV: 26.69 ml\nLV CO: 2.30 L/min\neRAP: 3 mmHg (0.90 / 0.60)\nSVR: 1928.55 dynes/sec.cm-5\n\nBSA: 1.51\nCardiac Index: 1.52\nCardiac Power Output: 0.30\nCardiac Power Index: 0.20\n\nLung Ultrasound\nA-Lines (+), B-lines (+) bilateral, Efusi pleura (+) with estimation right: 500 cc"
+    }
+  ]
+}
